@@ -12,7 +12,7 @@ export const About = () => {
             </span>
            </h1>
             <p className='text-slate-500 mt-2 leading-relaxed'>
-            Dedicated and results-driven Full Stack Developer with 3 years of experience in creating dynamic and
+            Dedicated and results-driven Full Stack Developer with 4 years of experience in creating dynamic and
 scalable web applications. Proficient in a wide range of technologies including React, Angular, Node,
 MongoDB, and more. Adept at collaborating with cross-functional teams to drive project success.
 Seeking to leverage expertise to deliver innovative solutions and drive business growth.
